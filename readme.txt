@@ -12,3 +12,5 @@ a new line
 test discard
 
 test discard2
+
+Creating a new branch is quick $ simple

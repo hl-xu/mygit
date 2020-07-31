@@ -20,3 +20,4 @@ creating a new branch is quick AND simple
 >>>>>>> feature1
 
 x11
+b22

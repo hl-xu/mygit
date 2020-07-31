@@ -6,4 +6,9 @@ edistributed under the gpl
 track of changes
 
 trac of changes2
+
 a new line
+
+test discard
+
+test discard2
